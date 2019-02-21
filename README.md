@@ -3,7 +3,7 @@
 Cryptomix Ransomware Mal Helper
 
 Packed Digital Signed Crypted Bin:
-```SHA-256: 10f4be34c2e41e6c2d4932ab77f189cf5da659abd028537604eae6435c83516a`
+```SHA-256: 10f4be34c2e41e6c2d4932ab77f189cf5da659abd028537604eae6435c83516a```
 Unpacked Ransomware Bin:
 ```SHA-256: 79b8c37a5e2a32e8f7e000822cec6f2f4e317620a2296f1aa3f35b2374c396ec```
 Reference: https://twitter.com/malwrhunterteam/status/1098578106112245760
